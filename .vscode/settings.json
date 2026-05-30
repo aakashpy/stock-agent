@@ -1,0 +1,12 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:venv",
+  "continue.enable": true,
+  "continue.plugins": [
+      {
+          "name": "context-provider",
+          "description": "Provides context for various tasks.",
+          "command": "# Please configure your command here", // Placeholder for your command
+          "context": "# Please configure your context here" // Placeholder for your context
+      }
+  ]
+}
