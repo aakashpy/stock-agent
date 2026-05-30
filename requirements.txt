@@ -7,3 +7,5 @@ shimmy>=0.2.1
 numpy
 ta
 gymnasium
+urllib3<2.0.0
+requests
