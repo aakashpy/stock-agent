@@ -1,8 +1,8 @@
 streamlit
 pandas>=2.0.0
 plotly
-alpha_vantage
-alpaca-trade-api
+alpha_vantage==2.3.1
+alpaca-trade-api==3.1.1
 stable-baselines3
 shimmy>=0.2.1
 numpy
